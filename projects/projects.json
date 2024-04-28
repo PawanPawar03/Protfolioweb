@@ -1,0 +1,23 @@
+[
+  
+  {
+    "name": "Blogging Platform",
+    "desc": "Its is one content blogging platform",
+    "image": "Screenshot2",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/PawanPawar03/blogging_platform1",
+      "code": "https://github.com/PawanPawar03/blogging_platform1"
+    }
+  },
+  {
+    "name": "Rook Move",
+    "desc": "If you spin moving the rooks",
+    "image": "Screenshot1",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/PawanPawar03/Rook-s-Move",
+      "code": "https://github.com/PawanPawar03/Rook-s-Move"
+    }
+  }
+]
